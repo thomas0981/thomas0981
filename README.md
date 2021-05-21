@@ -1,8 +1,23 @@
-- 👋 Hi, I’m Cheung Ho Hin
-- 👀 I’m interested in hiking and playing badminton
-- 🌱 I’m studying in Enterprise Engineering with Management at the Hong Kong Polytechnic Univerisity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (thomashinchh2gmail.com)(+852 67756792)
+Cheung Ho Hin </br>| Work Experience</br>
+------------ | ------------- 
+thomashinchh@gmail.com | Part time Technical Assistant/ Looking Glass Factory
+67756792 | Warehose Project Intern/ Auriga
+
+Language </br>| Education</br>
+------------ | ------------- 
+Chiness : Native| Enterprise Engineering with Management in The Hong Kong Polytechnic University
+Mandarin: Flunet | HD in Aircraft Service Engieering in The Hong Kong Community College
+English: Flunet |
+
+SKill </br>| Volunteer Experience </br>
+------------ | ------------- 
+Excel | UNSECO Teacher Assistant in 2019 (STEM)
+Word| Service Learning (STEM for Local Student)
+Powerpoint| Student Helper
+SPSS |
+ERP|
+ARUDINO|
+SQL|
 
 <!---
 thomas0981/thomas0981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
